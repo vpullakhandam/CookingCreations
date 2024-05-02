@@ -1,29 +1,33 @@
 import React from "react";
-import MultiplePizzas from "../assets/multiplePizzas.jpeg";
+import aboutImage from "../assets/about-image.avif";
 import "../styles/About.css";
 function About() {
   return (
     <div className="about">
       <div
         className="aboutTop"
-        style={{ backgroundImage: `url(${MultiplePizzas})` }}
+        style={{ backgroundImage: `url(${aboutImage})` }}
       ></div>
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-          voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-          fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-          accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut
-          molestias architecto voluptate aliquam nihil, eveniet aliquid culpa
-          officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum
-          nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque
-          error repudiandae fuga? Ipsa laudantium molestias eos sapiente
-          officiis modi at sunt excepturi expedita sint? Sed quibusdam
-          recusandae alias error harum maxime adipisci amet laborum.
-          Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a
-          cumque velit
+        <p className="p-text-about">
+          Welcome to Cooking Creation! Our culinary sanctuary is a treasure
+          trove of flavors, inviting you to explore the vibrant world of cooking
+          with passion and creativity. At Cooking Creation, we're dedicated to
+          cultivating a community of food lovers who share a common love for
+          delicious dishes and the joy of bringing people together around the
+          table. With a diverse collection of recipes sourced from across
+          cultures and cuisines, our mission is to inspire and empower home
+          cooks of all levels to unleash their culinary potential. From
+          traditional comfort foods to contemporary creations, we offer a wealth
+          of inspiration to suit every palate and occasion.
+        </p>
+        <p className="p-text-about">
+          Join us on a delicious journey as we celebrate the art of cooking, the
+          pleasure of sharing meals with loved ones, and the sheer delight of
+          savoring every bite. Welcome to cooking creation, where every recipe
+          tells a story and every meal is a celebration of flavor and
+          fellowship.
         </p>
       </div>
     </div>

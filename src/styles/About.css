@@ -35,3 +35,7 @@
   justify-content: center;
   transform: translateY(-40px);
 }
+
+.p-text-about {
+  font-size: large;
+}

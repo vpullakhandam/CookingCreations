@@ -10,7 +10,7 @@ function MenuItem({ image, name, reci }) {
         {" "}
         {
           <Link to={reci}>
-            <button className="reci-button">recipie</button>
+            <button className="reci-button">recipe</button>
           </Link>
         }{" "}
       </p>

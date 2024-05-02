@@ -21,15 +21,15 @@
   align-items: center;
   font-size: 90px;
   height: 60px;
-  font-weight: 50;
-  color: black;
+  font-weight: 60;
+  color: #0f172a;
 }
 
 .headerContainer p {
-  padding: 0;
+  padding-left: 15px;
   font-size: 40px;
   font-weight: lighter;
-  color: black;
+  color: #0c4a6e;
 }
 
 .headerContainer button {

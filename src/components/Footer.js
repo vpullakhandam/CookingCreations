@@ -14,7 +14,7 @@ function Footer() {
         <XIcon />
         <FacebookIcon />
       </div>
-      <p>&copy; 2024 pizza</p>
+      <p>&copy; 2024 cooking creations</p>
     </div>
   );
 }
