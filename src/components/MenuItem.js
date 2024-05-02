@@ -1,11 +1,19 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
-function MenuItem({ image, name, price }) {
+function MenuItem({ image, name, reci }) {
   return (
     <div className="menuItem">
       <div style={{ backgroundImage: `url(${image})` }}> </div>
       <h1> {name} </h1>
-      <p> ${price} </p>
+      <p>
+        {" "}
+        {
+          <Link to={reci}>
+            <button className="reci-button">recipie</button>
+          </Link>
+        }{" "}
+      </p>
     </div>
   );
 }
