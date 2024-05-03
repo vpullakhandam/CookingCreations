@@ -12,7 +12,7 @@ function App() {
       <Router basename="/foodapp-example">
         <Navbar />
         <Routes>
-          <Route path="/foodapp-example" element={<Home />} />
+          <Route path="/foodapp-example/" element={<Home />} />
           <Route path="/menu" element={<Menu />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
