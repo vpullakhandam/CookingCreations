@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home/static/css/main.90f54ab4.css",
-    "main.js": "/home/static/js/main.d1e15074.js",
+    "main.js": "/home/static/js/main.2847e15c.js",
     "static/js/453.68693753.chunk.js": "/home/static/js/453.68693753.chunk.js",
     "static/media/banner1.avif": "/home/static/media/banner1.f5fa407587d37282d5a2.avif",
     "static/media/contactImage.avif": "/home/static/media/contactImage.384e11ef3495a7e90c2a.avif",
@@ -15,11 +15,11 @@
     "static/media/MangoJuice.jpg": "/home/static/media/MangoJuice.8d613ec9604ffcbf959c.jpg",
     "index.html": "/home/index.html",
     "main.90f54ab4.css.map": "/home/static/css/main.90f54ab4.css.map",
-    "main.d1e15074.js.map": "/home/static/js/main.d1e15074.js.map",
+    "main.2847e15c.js.map": "/home/static/js/main.2847e15c.js.map",
     "453.68693753.chunk.js.map": "/home/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90f54ab4.css",
-    "static/js/main.d1e15074.js"
+    "static/js/main.2847e15c.js"
   ]
 }
