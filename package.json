@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://vpullakhandam.github.io/foodapp-example",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
