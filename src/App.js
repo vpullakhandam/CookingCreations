@@ -9,10 +9,10 @@ import Contact from "./pages/Contact";
 function App() {
   return (
     <div className="App">
-      <Router basename="/foodapp-example">
+      <Router>
         <Navbar />
         <Routes>
-          <Route path="/foodapp-example/" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/menu" element={<Menu />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
