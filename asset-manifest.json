@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/foodapp-example/static/css/main.90f54ab4.css",
-    "main.js": "/foodapp-example/static/js/main.7bd6b17f.js",
-    "static/js/453.68693753.chunk.js": "/foodapp-example/static/js/453.68693753.chunk.js",
-    "static/media/banner1.avif": "/foodapp-example/static/media/banner1.f5fa407587d37282d5a2.avif",
-    "static/media/contactImage.avif": "/foodapp-example/static/media/contactImage.384e11ef3495a7e90c2a.avif",
-    "static/media/about-image.avif": "/foodapp-example/static/media/about-image.edd5d6197e3bca1a51fe.avif",
-    "static/media/Burger.avif": "/foodapp-example/static/media/Burger.66378646b44f519e19d5.avif",
-    "static/media/Cupcakes.avif": "/foodapp-example/static/media/Cupcakes.751a96858b1217eef513.avif",
-    "static/media/Biryani.avif": "/foodapp-example/static/media/Biryani.2c2db03413c0eca7abee.avif",
-    "static/media/Noodles.avif": "/foodapp-example/static/media/Noodles.9756684ac60b15871563.avif",
-    "static/media/Pancakes.avif": "/foodapp-example/static/media/Pancakes.9802859760f4db5cb5a6.avif",
-    "static/media/Logo.png": "/foodapp-example/static/media/Logo.343efc60b8b70dd39875.png",
-    "static/media/MangoJuice.jpg": "/foodapp-example/static/media/MangoJuice.8d613ec9604ffcbf959c.jpg",
-    "index.html": "/foodapp-example/index.html",
-    "main.90f54ab4.css.map": "/foodapp-example/static/css/main.90f54ab4.css.map",
-    "main.7bd6b17f.js.map": "/foodapp-example/static/js/main.7bd6b17f.js.map",
-    "453.68693753.chunk.js.map": "/foodapp-example/static/js/453.68693753.chunk.js.map"
+    "main.css": "/home/static/css/main.90f54ab4.css",
+    "main.js": "/home/static/js/main.d1e15074.js",
+    "static/js/453.68693753.chunk.js": "/home/static/js/453.68693753.chunk.js",
+    "static/media/banner1.avif": "/home/static/media/banner1.f5fa407587d37282d5a2.avif",
+    "static/media/contactImage.avif": "/home/static/media/contactImage.384e11ef3495a7e90c2a.avif",
+    "static/media/about-image.avif": "/home/static/media/about-image.edd5d6197e3bca1a51fe.avif",
+    "static/media/Burger.avif": "/home/static/media/Burger.66378646b44f519e19d5.avif",
+    "static/media/Cupcakes.avif": "/home/static/media/Cupcakes.751a96858b1217eef513.avif",
+    "static/media/Biryani.avif": "/home/static/media/Biryani.2c2db03413c0eca7abee.avif",
+    "static/media/Noodles.avif": "/home/static/media/Noodles.9756684ac60b15871563.avif",
+    "static/media/Pancakes.avif": "/home/static/media/Pancakes.9802859760f4db5cb5a6.avif",
+    "static/media/Logo.png": "/home/static/media/Logo.343efc60b8b70dd39875.png",
+    "static/media/MangoJuice.jpg": "/home/static/media/MangoJuice.8d613ec9604ffcbf959c.jpg",
+    "index.html": "/home/index.html",
+    "main.90f54ab4.css.map": "/home/static/css/main.90f54ab4.css.map",
+    "main.d1e15074.js.map": "/home/static/js/main.d1e15074.js.map",
+    "453.68693753.chunk.js.map": "/home/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90f54ab4.css",
-    "static/js/main.7bd6b17f.js"
+    "static/js/main.d1e15074.js"
   ]
 }
