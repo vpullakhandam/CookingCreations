@@ -9,7 +9,7 @@ import Contact from "./pages/Contact";
 function App() {
   return (
     <div className="App">
-      <Router basename="/react-dummy">
+      <Router basename="/home">
         <Navbar />
         <Routes>
           <Route exact path="/" element={<Home />} />
