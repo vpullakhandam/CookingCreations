@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.90f54ab4.css",
-    "main.js": "/home/static/js/main.6fbc16b8.js",
-    "static/js/453.68693753.chunk.js": "/home/static/js/453.68693753.chunk.js",
-    "static/media/banner1.avif": "/home/static/media/banner1.f5fa407587d37282d5a2.avif",
-    "static/media/contactImage.avif": "/home/static/media/contactImage.384e11ef3495a7e90c2a.avif",
-    "static/media/about-image.avif": "/home/static/media/about-image.edd5d6197e3bca1a51fe.avif",
-    "static/media/Burger.avif": "/home/static/media/Burger.66378646b44f519e19d5.avif",
-    "static/media/Cupcakes.avif": "/home/static/media/Cupcakes.751a96858b1217eef513.avif",
-    "static/media/Biryani.avif": "/home/static/media/Biryani.2c2db03413c0eca7abee.avif",
-    "static/media/Noodles.avif": "/home/static/media/Noodles.9756684ac60b15871563.avif",
-    "static/media/Pancakes.avif": "/home/static/media/Pancakes.9802859760f4db5cb5a6.avif",
-    "static/media/Logo.png": "/home/static/media/Logo.343efc60b8b70dd39875.png",
-    "static/media/MangoJuice.jpg": "/home/static/media/MangoJuice.8d613ec9604ffcbf959c.jpg",
-    "index.html": "/home/index.html",
-    "main.90f54ab4.css.map": "/home/static/css/main.90f54ab4.css.map",
-    "main.6fbc16b8.js.map": "/home/static/js/main.6fbc16b8.js.map",
-    "453.68693753.chunk.js.map": "/home/static/js/453.68693753.chunk.js.map"
+    "main.css": "/static/css/main.90f54ab4.css",
+    "main.js": "/static/js/main.645b35e4.js",
+    "static/js/453.68693753.chunk.js": "/static/js/453.68693753.chunk.js",
+    "static/media/banner1.avif": "/static/media/banner1.f5fa407587d37282d5a2.avif",
+    "static/media/contactImage.avif": "/static/media/contactImage.384e11ef3495a7e90c2a.avif",
+    "static/media/about-image.avif": "/static/media/about-image.edd5d6197e3bca1a51fe.avif",
+    "static/media/Burger.avif": "/static/media/Burger.66378646b44f519e19d5.avif",
+    "static/media/Cupcakes.avif": "/static/media/Cupcakes.751a96858b1217eef513.avif",
+    "static/media/Biryani.avif": "/static/media/Biryani.2c2db03413c0eca7abee.avif",
+    "static/media/Noodles.avif": "/static/media/Noodles.9756684ac60b15871563.avif",
+    "static/media/Pancakes.avif": "/static/media/Pancakes.9802859760f4db5cb5a6.avif",
+    "static/media/Logo.png": "/static/media/Logo.343efc60b8b70dd39875.png",
+    "static/media/MangoJuice.jpg": "/static/media/MangoJuice.8d613ec9604ffcbf959c.jpg",
+    "index.html": "/index.html",
+    "main.90f54ab4.css.map": "/static/css/main.90f54ab4.css.map",
+    "main.645b35e4.js.map": "/static/js/main.645b35e4.js.map",
+    "453.68693753.chunk.js.map": "/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90f54ab4.css",
-    "static/js/main.6fbc16b8.js"
+    "static/js/main.645b35e4.js"
   ]
 }
