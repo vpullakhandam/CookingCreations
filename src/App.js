@@ -1,7 +1,7 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Menu from "./pages/Menu";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import Footer from "./components/Footer";
 import About from "./pages/About";
@@ -9,7 +9,7 @@ import Contact from "./pages/Contact";
 function App() {
   return (
     <div className="App">
-      <Router >
+      <Router>
         <Navbar />
         <Routes>
           <Route path="/home" element={<Home />} />
