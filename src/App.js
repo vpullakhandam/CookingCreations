@@ -9,10 +9,10 @@ import Contact from "./pages/Contact";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/react-dummy">
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route exact path="/" element={<Home />} />
           <Route path="/menu" element={<Menu />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
