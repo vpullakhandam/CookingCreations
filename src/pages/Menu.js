@@ -2,6 +2,7 @@ import React from "react";
 import { MenuList } from "../helpers/MenuList";
 import MenuItem from "../components/MenuItem";
 import "../styles/Menu.css";
+import Cupcake from "./menuPages/Cupcake";
 
 function Menu() {
   return (

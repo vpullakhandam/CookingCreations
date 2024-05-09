@@ -9,31 +9,31 @@ export const MenuList = [
   {
     name: "Cupcake",
     image: Cupcake,
-    reci: "https://www.nutritionaltherapyforibd.org/recipes/vanilla-cupcakes?gad_source=1&gclid=CjwKCAjw88yxBhBWEiwA7cm6pdT7kAexznFmHlK0bO5NWd6fhf5bMpJRj2SVNf6RU_l9KaAuwoyJ1hoCoCQQAvD_BwE",
+    reci: "/cupcake",
   },
   {
     name: "Biryani",
     image: Biryani,
-    reci: "https://www.indianhealthyrecipes.com/chicken-biryani-recipe/",
+    reci: "/biryani",
   },
   {
     name: "Mango Juice",
     image: MangoJuice,
-    reci: "https://www.indianhealthyrecipes.com/mango-juice-recipe/",
+    reci: "/mangojuice",
   },
   {
     name: "Burger",
     image: Burger,
-    reci: "https://www.indianhealthyrecipes.com/veg-burger-recipe-veggie-burger-recipe/",
+    reci: "/burger",
   },
   {
     name: "Pancakes",
     image: Pancakes,
-    reci: "https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/",
+    reci: "/pancakes",
   },
   {
     name: "Noodles",
     image: Noodles,
-    reci: "https://www.indianhealthyrecipes.com/veg-noodles-recipe/",
+    reci: "/noodles",
   },
 ];

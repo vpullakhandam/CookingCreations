@@ -1,0 +1,60 @@
+/* .border {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+  box-shadow: 2px 6px 20px rgba(0, 0, 0, 0.2);
+  background-color: white;
+  
+}
+.heading {
+  text-align: center;
+  font-style: italic;
+}
+.sub-heading {
+  padding-left: 70px;
+}
+.img{
+  
+  
+} */
+
+.border {
+  margin: 50px;
+  box-shadow: 0px 1px 2px black;
+  background-color: gainsboro;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Typography */
+.heading {
+  text-align: center;
+  font-style: italic;
+}
+.first-heading {
+  padding-left: 50px;
+  padding-top: 5px;
+}
+.sub-heading {
+  font-weight: bold;
+  padding-left: 20px;
+}
+.list {
+  font-size: larger;
+}
+.list li {
+  padding-bottom: 10px;
+}
+
+.end {
+  font-style: italic;
+  color: red;
+  text-align: right;
+}
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  .container {
+    width: 500px;
+  }
+}
