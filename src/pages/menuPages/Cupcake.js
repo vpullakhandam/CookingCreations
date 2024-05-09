@@ -7,6 +7,9 @@ export default function Cupcake() {
     <div className="container">
       <div className="border">
         <h1 className="heading">Cupcake Recipe</h1>
+        <div className="image-container">
+          <img src={cupcake} alt="cupcake" className="img" />
+        </div>
         <p className="first-heading">
           <h2 className="sub-heading">Ingredients:</h2>
           <ol className="list">
