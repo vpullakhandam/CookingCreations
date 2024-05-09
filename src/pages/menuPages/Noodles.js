@@ -2,13 +2,13 @@ import React from "react";
 import "../../styles/menuStyles/menuStyle.css";
 import ramen from "../../assets/Noodles.avif";
 
-export default function Ramen() {
+export default function Noodles() {
   return (
     <div className="container">
       <div className="border">
         <h1 className="heading">Noodles</h1>
         <div className="image-container">
-          <img src={ramen} alt="Ramen" className="img" />
+          <img src={ramen} alt="noodles" className="img" />
         </div>
         <p className="first-heading">
           <h2 className="sub-heading">Ingredients:</h2>
