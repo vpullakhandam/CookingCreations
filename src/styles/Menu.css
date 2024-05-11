@@ -84,7 +84,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 20px; /* Added padding for better spacing */
+   
 }
 
 .menu .menuTitle {
@@ -152,6 +152,7 @@
 
 @media only screen and (max-width: 600px) {
   .menuList {
-    grid-template-columns: 1fr; /* Adjusted grid for smaller screens */
+    grid-template-columns: 1fr;
+    width: 300px; 
   }
 }
