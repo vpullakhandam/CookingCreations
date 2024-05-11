@@ -20,7 +20,7 @@
 } */
 
 .border {
-  margin: 50px;
+  margin: 40px;
   box-shadow: 0px 1px 2px black;
   background-color: gainsboro;
   padding: 20px;
@@ -62,9 +62,9 @@
   height: 300px;
 }
 /* Responsive Design */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   .container {
-    width: 480px;
+    width: 410px;
     padding: 2px;
   }
 }

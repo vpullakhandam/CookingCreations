@@ -1,5 +1,10 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
 .navbar {
-  width: 100%;
+  width: 107%;
   height: 100px;
   background-color: #121619;
   display: flex;
@@ -11,7 +16,7 @@
   height: 100%;
   display: flex;
   align-items: center;
-  padding-left: 150px;
+  padding-left: 50px;
 }
 
 .navbar .leftSide img {
@@ -69,7 +74,7 @@
 }
 @media only screen and (max-width: 900px) {
   .navbar .rightSide a {
-    width: 70px;
+    width: 50px;
   }
   .navbar .leftSide {
     padding-left: 50px;
@@ -83,7 +88,7 @@
 
   .navbar .rightSide {
     justify-content: center;
-    padding-right: 40px;
+    padding-right: 4px;
   }
 
   .navbar .rightSide button {
