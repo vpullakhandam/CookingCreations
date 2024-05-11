@@ -82,8 +82,8 @@
   }
 
   .navbar .rightSide {
-    justify-content: flex-end;
-    padding-right: 50px;
+    justify-content: center;
+    padding-right: 40px;
   }
 
   .navbar .rightSide button {
