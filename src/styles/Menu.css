@@ -51,12 +51,14 @@
 
 @media only screen and (max-width: 1300px) {
   .menuList {
-    width: 500px;
+    grid-template-columns: 1fr 1fr;
+    width: 400px;
   }
 }
 
 @media only screen and (max-width: 800px) {
   .menuList {
+    grid-template-columns: 1fr;
     width: 300px;
   }
 }
